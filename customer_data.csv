@@ -1,4 +1,4 @@
-customer_id,first_name,last_name,email,phone
+﻿customer_id,first_name,last_name,email,phone
 CUST_0001,teser_001,last name001,tester001@gmail.com,9898989898
 CUST_0002,teser_002,last name002,tester002@gmail.com,9898989898
 CUST_0003,teser_003,last name003,tester001@gmail.com,9898989898
